@@ -1,5 +1,10 @@
 # Angular2
 
+## styles 模板样式
+- [STYLING ANGULAR COMPONENTS](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
+- [VIEW ENCAPSULATION IN ANGULAR](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
+
+
 ## Http
 - [Angular Multiple HTTP Requests with RxJS](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
 
