@@ -14,7 +14,7 @@
 ## Http
 - [Angular Multiple HTTP Requests with RxJS](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
 
-## 状态管理 Redux
+## Redux 状态管理 
 - [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f#.w15k3mhhr)
 
 ## performance 性能优化
