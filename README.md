@@ -1,6 +1,7 @@
 # Angular2
 
 ## DI 依赖注入
+- [Dependency Injection In Angular](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
 - [Multi Providers In Angular](https://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html)
 - [Angular Providers Using Map Literals](https://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html)
 - [How To Prevent Name Collisions In Angular Providers](https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#the-problem-with-string-tokens)
