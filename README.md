@@ -12,7 +12,7 @@
 - [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f#.w15k3mhhr)
 
 ## performance 性能优化
-- [MAKING YOUR ANGULAR APPS FAST](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html#using-a-simpler-ngfor)
+- [Making Your Angular Apps Fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html#using-a-simpler-ngfor)
 
 # CSS
 - [理解Flexbox：你需要知道的一切](http://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
