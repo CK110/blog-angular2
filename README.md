@@ -1,5 +1,11 @@
 # Angular2
 
+## DI 依赖注入
+- [Multi Providers In Angular](https://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html)
+- [Angular Providers Using Map Literals](https://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html)
+- [How To Prevent Name Collisions In Angular Providers](https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#the-problem-with-string-tokens)
+
+
 ## styles 模板样式
 - [Styling Angular Components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
 - [View Encapsulation In Angular](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
