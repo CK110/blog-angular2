@@ -1,5 +1,8 @@
 # Angular2
 
+## core 
+- [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
+
 ## DI 依赖注入
 - [Dependency Injection In Angular](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
 - [Multi Providers In Angular](https://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html)
@@ -20,6 +23,10 @@
 
 ## performance 性能优化
 - [Making Your Angular Apps Fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html#using-a-simpler-ngfor)
+
+# ionic2
+- [Ionic Split Panel Component](https://chrisgriffith.wordpress.com/2017/02/25/ionic-split-panel-component/)
+
 
 # CSS
 - [理解Flexbox：你需要知道的一切](http://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
