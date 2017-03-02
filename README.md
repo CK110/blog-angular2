@@ -17,6 +17,7 @@
 
 ## Http
 - [Angular Multiple HTTP Requests with RxJS](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
+- [An introduction to RxJs in Angular2,在http中使用rxjs，以及asyncpipe](https://blog.falafel.com/introduction-rxjs-angular2/)
 
 ## Redux 状态管理 
 - [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f#.w15k3mhhr)
