@@ -30,6 +30,7 @@
 
 ## 项目部署
 - [启用AOT+TreeShaking+Gzip大幅度压缩Angular2应用的体积](https://my.oschina.net/mumu/blog/830742)
+- [让你的服务端支持HTML5的PushState模式](https://my.oschina.net/mumu/blog/830696)
 
 # ionic2
 - [Ionic Split Panel Component](https://chrisgriffith.wordpress.com/2017/02/25/ionic-split-panel-component/)
