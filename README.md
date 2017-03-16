@@ -13,7 +13,7 @@
 ## styles 模板样式
 - [Styling Angular Components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
 - [View Encapsulation In Angular](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
-
+- [Angular 2+ Classes with NgClass and NgStyle](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle?utm_content=buffer12c33&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Http
 - [Angular Multiple HTTP Requests with RxJS(mergMap,forkJoin..)](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
