@@ -9,11 +9,13 @@
 - [Angular Providers Using Map Literals](https://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html)
 - [How To Prevent Name Collisions In Angular Providers](https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#the-problem-with-string-tokens)
 
-
 ## styles 模板样式
 - [Styling Angular Components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
 - [View Encapsulation In Angular](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
 - [Angular 2+ Classes with NgClass and NgStyle](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle?utm_content=buffer12c33&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+## form 表单
+- [Custom Form Controls In Angular](https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
 
 ## Http
 - [Angular Multiple HTTP Requests with RxJS(mergMap,forkJoin..)](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
