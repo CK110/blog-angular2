@@ -40,3 +40,6 @@
 
 # CSS
 - [理解Flexbox：你需要知道的一切](http://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
+
+# javascript
+- [IIFE立即执行函数](http://web.jobbole.com/82520/)
