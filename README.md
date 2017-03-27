@@ -2,6 +2,7 @@
 
 ## core 
 - [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
+- [The Difference Between @ViewChildren and @ContentChildren](https://www.joshmorony.com/the-difference-between-viewchildren-and-contentchildren/)
 
 ## DI 依赖注入
 - [Dependency Injection In Angular](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
