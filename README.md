@@ -35,6 +35,9 @@
 - [启用AOT+TreeShaking+Gzip大幅度压缩Angular2应用的体积](https://my.oschina.net/mumu/blog/830742)
 - [让你的服务端支持HTML5的PushState模式](https://my.oschina.net/mumu/blog/830696)
 
+## JWT
+- [Express, Passport and JSON Web Token (jwt) Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/)
+
 # ionic2
 - [Ionic Split Panel Component](https://chrisgriffith.wordpress.com/2017/02/25/ionic-split-panel-component/)
 
