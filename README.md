@@ -39,7 +39,7 @@
 - [Express, Passport and JSON Web Token (jwt) Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/)
 
 ## debugger
--[Debugging Angular 2 applications](https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications)
+- [Debugging Angular 2 applications](https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications)
 
 # ionic2
 - [Ionic Split Panel Component](https://chrisgriffith.wordpress.com/2017/02/25/ionic-split-panel-component/)
