@@ -35,6 +35,9 @@
 - [启用AOT+TreeShaking+Gzip大幅度压缩Angular2应用的体积](https://my.oschina.net/mumu/blog/830742)
 - [让你的服务端支持HTML5的PushState模式](https://my.oschina.net/mumu/blog/830696)
 
+## 创建组件库
+- [Angular Package Format v4.0](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview#) 2017-04-07
+
 ## 未来版本
 - [What to Expect for in Angular v5?](https://hackernoon.com/what-to-expect-for-in-angular-v5-6e0fc9c4b13e) 2017
 
