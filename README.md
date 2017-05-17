@@ -35,6 +35,9 @@
 - [启用AOT+TreeShaking+Gzip大幅度压缩Angular2应用的体积](https://my.oschina.net/mumu/blog/830742)
 - [让你的服务端支持HTML5的PushState模式](https://my.oschina.net/mumu/blog/830696)
 
+## 未来版本
+- [What to Expect for in Angular v5?](https://hackernoon.com/what-to-expect-for-in-angular-v5-6e0fc9c4b13e) 2017
+
 ## JWT
 - [Express, Passport and JSON Web Token (jwt) Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/)
 
